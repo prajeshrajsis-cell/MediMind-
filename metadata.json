@@ -1,0 +1,8 @@
+{
+  "name": "MediMind AI",
+  "description": "A comprehensive AI-powered medical assistant for symptom checking, health tracking, and clinical guidance.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
